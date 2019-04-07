@@ -1,0 +1,63 @@
+.background{
+
+ 	background:url(../img/abc.jpg)navajowhite;
+ 	background-repeat: no-repeat;
+ 	background-size: cover;
+ 	display: block;
+ }
+
+.container{
+
+	width: 500px;
+	margin: 2% auto;
+
+}
+
+.login-section{
+	
+}
+
+.login-section h2{
+	color: #fff;
+	text-align:center;
+
+}
+
+.login-section img{
+	width: 149px;
+	height: 150px;
+	margin: 0 auto;
+	display: block;
+}
+.login-section ul {
+    list-style: none;
+    text-decoration: none;
+}
+.login-section ul li {
+    text-decoration: none;
+    text-transform: none;
+    background-color: #a9a9a917;
+    font-size: 18px;
+}
+.login-section ul li a {
+    color: black;
+    text-align: left;
+}
+
+.from-control {
+    width: 80%;
+    height: 29px;
+    padding: 0px 5px;
+    margin: 0px 0px 10px 29px;
+} 
+
+.btn {
+    background-color: #E91E63;
+    padding: 6px 21px;
+    border: #fff;
+    font-size: 16px;
+    border-radius: 14px;
+    margin: 0px 27px;
+}
+
+

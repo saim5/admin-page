@@ -1,0 +1,48 @@
+.background{
+
+ 	background:url(../img/black.jpg)navajowhite;
+ 	background-repeat: no-repeat;
+ 	background-size: cover;
+ 	width:170px auto;
+ }
+ .container{
+
+	width: 400px;
+	margin: 1px auto;
+
+}
+.login-section{
+	
+}
+
+.login-section h2{
+	color: red;
+	text-align:left;
+
+}
+.login-section img{
+	width: 154px;
+	height: 150px;
+	margin: 0 auto;
+	display: block;
+
+}
+.login-section h3 {
+	color: yellow;
+	text-align:left;
+	margin: 2px auto;
+}
+
+.form-info{
+	width: 80%;
+	height: 29px;
+	padding: 0px 5px;
+	margin-bottom: 10px;
+}
+.btn {
+    background-color: #607D8B;
+    padding: 6px 18px;
+    border: #146d1d;
+    font-size: 20px;
+    border-radius: 14px;
+}}
